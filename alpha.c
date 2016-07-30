@@ -3,6 +3,7 @@
 #include "a2.h"
 #include "a3.h"
 #include "a4.h"
+#include "a5.h"
 void main()
 {	char ch[20],ch1[20],ch2[100],p[2];
 	int length,n=0,i=0;
